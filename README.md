@@ -6,3 +6,7 @@ Based on https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/mi
 
 Look at https://github.com/sebug/downsample to easily simulate what the
 camera will see.
+
+Maybe use https://explore.org/livecams/kitten-rescue/kitten-rescue-cam to
+detect cat presence
+
